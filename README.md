@@ -1,6 +1,5 @@
 <h1 align="center">🖼️ Image Compressor using Max Pooling</h1>
 
-
 ## Project Overview :
 
 - This project is a Streamlit-based Image Compression Web Application that compresses images using the Max Pooling technique, a concept widely used in Computer Vision and Convolutional Neural Networks (CNNs).
