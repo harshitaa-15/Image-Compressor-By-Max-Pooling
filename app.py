@@ -6,7 +6,6 @@ from PIL import Image
 #                         ALGORITHM
 #=============================================================
 
-
 def image_compression_algorithm(arr, stride_x, stride_y, sub_rows, sub_cols):
     rows, cols = arr.shape 
 
